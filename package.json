@@ -1,0 +1,23 @@
+{
+  "name": "remind_me",
+  "version": "1.0.0",
+  "description": "callback webservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajferrario/remind_me.git"
+  },
+  "author": "Anthony Lai-Ferrario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajferrario/remind_me/issues"
+  },
+  "homepage": "https://github.com/ajferrario/remind_me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
